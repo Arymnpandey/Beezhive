@@ -14,7 +14,7 @@ const Footer = () => {
           </a>
           <a
             className="social-icons"
-            href="https://www.linkedin.com/in/aryaman-pandey-0a711527/"
+            href="https://www.linkedin.com/in/aryaman-pandey-0a7115279/"
           >
             <AiFillLinkedin size={40} color="steelblue"></AiFillLinkedin>
           </a>
