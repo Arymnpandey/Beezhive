@@ -1,5 +1,5 @@
 HERE is the live link
-https://beezpay-bcd34.web.app/
+https://beezhive.netlify.app/
 
 # Getting Started with Create React App
 
