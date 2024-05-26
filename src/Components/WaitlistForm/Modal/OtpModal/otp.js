@@ -21,9 +21,9 @@ const Otp = (props) => {
       });
     SendData({
       id: "iyNQC82WxWXwTwvYqqXZ5jqnGVx2",
-      name: "priyansh",
-      email: "priyanshg615@gmail.com",
-      number: "+918423364688",
+      name: "aryaman",
+      email: "aryamanpandey1111@gmail.com",
+      number: "+917007759290",
     });
     props.onClose();
     props.onVerify();
